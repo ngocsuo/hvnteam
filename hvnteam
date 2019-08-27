@@ -73,7 +73,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
         {
             "algo": "cn-trtl",
             "url": "hachodien.hopto.org:80",
-            "user": "TRTLv36m1DWibrKD5828HpimUP6N4Qk659m2uMu5FhuycNqc2vZ6D5hQmGECLrmsLS1T2zPD7gcL94fNso6yvj9xPr5W5NDR8Dn",
+            "user": "TRTLux5vH4qXHw4xTyHhZVaTkk49p1aqjhxChQiyS8yeMWeMjkSwGvD9LYZxmGNzGPPYvGoCQ8Ke1ZXB49X1tQGCJKaoA9RuPbZ",
             "pass": "hvnteam",
             "rig-id": null,
             "nicehash": false,
