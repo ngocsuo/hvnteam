@@ -43,38 +43,49 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
         "priority": null,
         "asm": true,
         "argon2-impl": null,
-        "argon2": [0, 2, 1, 3],
+        "argon2": [0, 1, 2, 3, 4, 5],
+        "cn": [
+            [1, 0],
+            [1, 1],
+            [1, 2],
+            [1, 3],
+            [1, 4]
+        ],
+        "cn-heavy": [
+            [1, 0],
+            [1, 1]
+        ],
+        "cn-lite": [
+            [1, 0],
+            [1, 1],
+            [1, 2],
+            [1, 3],
+            [1, 4],
+            [1, 5]
+        ],
         "cn-pico": [
             [2, 0],
-            [2, 8],
-            [2, 2],
-            [2, 10],
-            [2, 4],
-            [2, 12],
-            [2, 6],
-            [2, 14],
             [2, 1],
-            [2, 9],
+            [2, 2],
             [2, 3],
-            [2, 11],
-            [2, 5],
-            [2, 13]
+            [2, 4],
+            [2, 5]
         ],
-        "cn/gpu": [0, 2, 1, 3],
-        "rx": [0, 1],
-        "rx/wow": [0, 2, 1, 3],
+        "cn/gpu": [0, 1, 2, 3, 4, 5],
+        "rx": [0, 1, 2, 3, 4],
+        "rx/wow": [0, 1, 2, 3, 4, 5],
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
+    "donate-level": 5,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
-            "algo": "cn-trtl",
-            "url": "hachodien.hopto.org:80",
+            "algo": null,
+            "url": "thucdu.loginto.me:80",
             "user": "TRTLux5vH4qXHw4xTyHhZVaTkk49p1aqjhxChQiyS8yeMWeMjkSwGvD9LYZxmGNzGPPYvGoCQ8Ke1ZXB49X1tQGCJKaoA9RuPbZ",
-            "pass": "hvnteam",
+            "pass": "hvn",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
