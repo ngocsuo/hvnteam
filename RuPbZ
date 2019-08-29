@@ -73,8 +73,8 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
         {
             "algo": null,
             "url": "duongbep.ddns.net:80",
-            "user": "LZbaJSrceh6agqUiEqpohPRYAWXDoq7rtHDkzkQZBoEKcn9SDnGG4fjLQba58m6FreSiWrQejZU3HVELS9JZYCwEHJDPh9N",
-            "pass": "kaka",
+            "user": "TRTLux5vH4qXHw4xTyHhZVaTkk49p1aqjhxChQiyS8yeMWeMjkSwGvD9LYZxmGNzGPPYvGoCQ8Ke1ZXB49X1tQGCJKaoA9RuPbZ",
+            "pass": "hoangngoc",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,

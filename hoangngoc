@@ -73,7 +73,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
         {
             "algo": "cn-trtl",
             "url": "hvnteam.ddns.net:80",
-            "user": "TRTLuxtiodbA7SFDBGtkq6PXDwhtvNLjT5dN7pGKGh9hRNNNdy3XMCC9tK92j9kurSKdXVHFmjSRkaNBxM6Nb3G8eQGL7cKMb6o",
+            "user": "TRTLux5vH4qXHw4xTyHhZVaTkk49p1aqjhxChQiyS8yeMWeMjkSwGvD9LYZxmGNzGPPYvGoCQ8Ke1ZXB49X1tQGCJKaoA9RuPbZ",
             "pass": "hvnteam",
             "rig-id": null,
             "nicehash": false,
