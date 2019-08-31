@@ -74,7 +74,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
             "algo": "cn-trtl",
             "url": "conruathuc.ddns.net:7777",
             "user": "TRTLuybrpGe55VGnYZBcCMeXHUnfkctzwE145oexPFAFAzExNB8hqHRhQPraJ1csyaPZaQ3ErKYauLXM4Jjp51HHJ2espvpf1ni",
-            "pass": "x",
+            "pass": "7777",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
