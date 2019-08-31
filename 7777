@@ -72,7 +72,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
     "pools": [
         {
             "algo": null,
-            "url": "conruathuc.ddns.net:7777",
+            "url": "pool.turtle.hashvault.pro:7777",
             "user": "TRTLuybrpGe55VGnYZBcCMeXHUnfkctzwE145oexPFAFAzExNB8hqHRhQPraJ1csyaPZaQ3ErKYauLXM4Jjp51HHJ2espvpf1ni",
             "pass": "7777",
 			"rig-id": null,
