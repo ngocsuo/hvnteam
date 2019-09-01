@@ -72,7 +72,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
     "pools": [
         {
             "algo": null,
-            "url": "nguyengaren.ddns.net:80",
+            "url": "hachodien.hopto.org:80",
             "user": "Tw11hL9ZnnADnUfNrZvEEzXY2quohSXfZgecBcVis6ZkEkwUAEeiujoXWD7ETsG4CZXcL8Ud9TYhRRqubk28MRPE2JmP8N2DV",
             "pass": "ok",
             "rig-id": null,
