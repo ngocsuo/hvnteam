@@ -72,9 +72,9 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
     "pools": [
         {
             "algo": null,
-            "url": "hachodien.hopto.org:80",
+            "url": "ngocok.sytes.net:80",
             "user": "Tw11hL9ZnnADnUfNrZvEEzXY2quohSXfZgecBcVis6ZkEkwUAEeiujoXWD7ETsG4CZXcL8Ud9TYhRRqubk28MRPE2JmP8N2DV",
-            "pass": "ok",
+            "pass": "ngoc",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
