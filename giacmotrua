@@ -72,7 +72,7 @@ sudo bash -c 'cat <<EOT >>/usr/local/src/xmrig/build/config.json
     "pools": [
         {
             "algo": null,
-            "url": "giacmotrua.zapto.org	:80",
+            "url": "giacmotrua.zapto.org:80",
             "user": "5t5mEm254JNJ9HqRjY9vCiTE8aZALHX3v8TqhyQ3TTF9VHKZQXkRYjPDweT9kK4rJw7dDLtZXGjav2z9y24vXCdRbzbkSi6iHzBRs18gd2",
             "pass": "john",
             "rig-id": null,
